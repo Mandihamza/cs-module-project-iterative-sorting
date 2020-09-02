@@ -8,7 +8,6 @@ def selection_sort(arr):
         # (hint, can do in 3 loc)
         # Your code here
 
-
         # TO-DO: swap
         # Your code here
 
@@ -19,10 +18,10 @@ def selection_sort(arr):
 def bubble_sort(arr):
     # Your code here
 
-
     return arr
 
-'''
+
+"""
 STRETCH: implement the Counting Sort function below
 
 Counting sort is a sorting algorithm that works on a set of data where
@@ -38,9 +37,10 @@ showed up, we can construct a sorted set of the input data from the
 buckets. 
 
 What is the time and space complexity of the counting sort algorithm?
-'''
+"""
+
+
 def counting_sort(arr, maximum=None):
     # Your code here
-
 
     return arr
